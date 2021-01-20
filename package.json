@@ -1,0 +1,21 @@
+{
+  "name": "ninisidor",
+  "version": "1.0.0",
+  "description": "translates text to the nini language",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lagosmanuel/ninisidor.git"
+  },
+  "keywords": [
+    "nini"
+  ],
+  "author": "Manuel Lagos (lagosmanual@gmail.com)",
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
