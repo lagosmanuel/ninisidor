@@ -31,7 +31,7 @@ function transition() {
   }, 1000);
 }
 
-example() {
+function example() {
   textbox.value = "este es un ejemplo";
   tranlaste(); 
 }
