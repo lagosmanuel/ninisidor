@@ -30,3 +30,10 @@ function transition() {
     copied.classList.remove("copied-on");
   }, 1000);
 }
+
+example() {
+  textbox.value = "este es un ejemplo";
+  tranlaste(); 
+}
+
+example();
