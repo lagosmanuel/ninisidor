@@ -4,6 +4,7 @@
   "description": "translates text to the nini language",
   "main": "app.js",
   "scripts": {
+    "build": "npm install",
     "start": "node app.js"
   },
   "repository": {
