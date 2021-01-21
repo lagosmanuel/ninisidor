@@ -33,7 +33,7 @@ function transition() {
 
 function example() {
   textbox.value = "este es un ejemplo";
-  tranlaste(); 
+  translate(); 
 }
 
 example();
