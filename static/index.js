@@ -35,6 +35,7 @@ function example() {
   textbox.value = "este es un ejemplo";
   translate(); 
   textbox.focus();
+  textbox.select();
 }
 
 example();
